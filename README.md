@@ -23,4 +23,4 @@ Further information:
 - [ ] Outline project structure in git
 
 <!-- This is a comment and will not appear in the rendered Markdown -->
-@raunc6 What do you think about this information?
+@Raunc6 What do you think about this information?
